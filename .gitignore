@@ -1,0 +1,14 @@
+rtrace
+*~
+*.o
+*.vcxproj
+*.filters
+*.user
+*.d
+*.zip
+*.cpp#
+*.cpp~
+hide
+shade
+.vscode
+
